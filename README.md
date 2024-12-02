@@ -17,7 +17,7 @@ This project is a **Movie Recommendation System** designed to cluster and analyz
 ---
 
 ## 📂 **Dataset**
-- Dataset sourced from **[Kaggle](https://www.kaggle.com/datasets)**, containing:
+- Dataset sourced from **[Kaggle]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies))**, containing:
   - Metadata: Genres, Languages, Keywords, Production Companies
   - Numerical Features: IMDB Ratings, Release Years
 - Extensive data cleaning and preprocessing ensure high-quality inputs.
@@ -27,8 +27,7 @@ This project is a **Movie Recommendation System** designed to cluster and analyz
 ## 🛠️ **Technologies Used**
 - **Python** 
 - **Scikit-learn** for ML algorithms  
-- **Pandas** for data wrangling  
-- **Plotly** for interactive visualizations  
+- **Pandas** for data wrangling   
 - **TF-IDF Vectorizer** for text processing  
 - **StandardScaler** for feature normalization  
 
@@ -46,17 +45,6 @@ This project is a **Movie Recommendation System** designed to cluster and analyz
 
 4. **Dimensionality Reduction**:  
    - Use **PCA** to retain 70% variance for computational efficiency and cluster visualization.
-
-5. **Visualization**:  
-   - Generate a 2D scatter plot with **PCA1** and **PCA2** axes to explore movie clusters interactively.
-
----
-
-## 💡 **Features to Explore**
-- **Interactive Visualizations**:
-  - Run the script to generate plots of movie clusters. Hover over data points to view movie details!
-- **Customizable Parameters**:
-  - Easily adjust clustering parameters (e.g., number of clusters) or PCA thresholds.
 
 ---
 
