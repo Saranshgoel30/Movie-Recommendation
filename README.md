@@ -12,7 +12,6 @@ This project is a **Movie Recommendation System** designed to cluster and analyz
 -  **Multi-modal Feature Integration**: Combines textual, numerical, and metadata features.
 -  **Cluster-based Recommendations**: Groups similar movies using **K-Means Clustering**.
 -  **Dimensionality Reduction**: Applies **PCA** for efficient computation and visualization.
--  **Interactive Visualization**: Explore movie clusters with an intuitive 2D scatter plot.
 
 ---
 
