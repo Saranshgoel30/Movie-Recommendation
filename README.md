@@ -1,7 +1,7 @@
 # 🎥 **Movie Recommendation System**  
 _A powerful machine learning-powered recommendation engine tailored to deliver personalized movie suggestions._
 
-![Project Banner](https://img.shields.io/badge/Machine_Learning-Scikit_Learn-orange) ![Project Banner](https://img.shields.io/badge/Clustering-KMeans-blue) ![Project Banner](https://img.shields.io/badge/Visualization-PCA-green)
+![Project Banner](https://img.shields.io/badge/Machine_Learning-Scikit_Learn-orange) ![Project Banner](https://img.shields.io/badge/Clustering-KMeans-blue) 
 
 ---
 
