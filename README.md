@@ -5,7 +5,7 @@ _A powerful machine learning-powered recommendation engine tailored to deliver p
 
 ---
 
-## 🚀 **About the Project**
+##  **About the Project**
 This project is a **Movie Recommendation System** designed to cluster and analyze movies using advanced machine learning techniques. By leveraging a combination of content-based filtering, clustering algorithms, and dimensionality reduction, the system offers personalized recommendations tailored to user preferences.
 
 ### **Key Features**
